@@ -1,5 +1,5 @@
 Summary:	Toy to experiment with wave-forms
-Summary(pl):	Zabawka do eksperymentowania z kszta≥tami fal
+Summary(pl.UTF-8):   Zabawka do eksperymentowania z kszta≈Çtami fal
 Name:		oa
 Version:	1.0.3
 Release:	1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Toy to experiment with wave-forms.
 
-%description -l pl
-Zabawka do eksperymentowania z kszta≥tami fal.
+%description -l pl.UTF-8
+Zabawka do eksperymentowania z kszta≈Çtami fal.
 
 %prep
 %setup -q
