@@ -1,5 +1,5 @@
 Summary:	Toy to experiment with wave-forms
-Summary(pl.UTF-8):   Zabawka do eksperymentowania z kształtami fal
+Summary(pl.UTF-8):	Zabawka do eksperymentowania z kształtami fal
 Name:		oa
 Version:	1.0.3
 Release:	1
