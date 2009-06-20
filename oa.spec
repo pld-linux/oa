@@ -8,7 +8,8 @@ Group:		X11/Applications/Sound
 Source0:	http://sed.free.fr/oa/%{name}-%{version}.tar.gz
 # Source0-md5:	59646de1598c29a7e35eb906ba970b98
 URL:		http://sed.free.fr/oa/
-BuildRequires:	XFree86-devel
+BuildRequires:	xorg-lib-libX11-devel
+BuildRequires:	xorg-proto-xproto-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
