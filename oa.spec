@@ -2,7 +2,7 @@ Summary:	Toy to experiment with wave-forms
 Summary(pl.UTF-8):	Zabawka do eksperymentowania z kształtami fal
 Name:		oa
 Version:	1.0.4
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		X11/Applications/Sound
 Source0:	http://sed.free.fr/oa/%{name}-%{version}.tar.gz
